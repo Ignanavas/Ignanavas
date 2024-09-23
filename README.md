@@ -1,3 +1,5 @@
+![](/home/igna/Ignanavas/src/imagen0.jpeg)
+
 <h1 align="center">Hi 👋, I'm Ignacio Navas</h1>
 <h3 align="center">A passionate developer from Argentina</h3>
 
