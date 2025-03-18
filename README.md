@@ -3,7 +3,7 @@
 
 
 
- 🔭 I’m currently working on [Adsmovil](https://adsmovil.com/) with Python and [Salesforce](https://www.salesforce.com/mx/?ir=1)
+ 🔭 I’m currently freelancing Salesforce and backend Python Solutions!
 
 <h2  align="left">💻 My working experience 💻</h2>
 <div>
