@@ -1,84 +1,52 @@
+JOSE IGNACIO VALLEJOS NAVAS
+📍 Remote | 📧 ignaciovalejosnavas@gmail.com | 🔗 LinkedIn
 
-<h1 align="center">Hi! 👋 I’m a passionate developer from Argentina </h1>
+Professional Summary
+Salesforce Developer & Python Backend Engineer with 3+ years of experience building scalable applications in Salesforce Sales Cloud and FastAPI. Proven track record in process automation, data integration (BigQuery, REST APIs), and leading cross-functional teams. Certified in Salesforce Administrator with strong expertise in Apex, Flows, and Lightning Components.
 
+Technical Skills
+Salesforce: Apex, SOQL, LWC, Flows, Process Builder, Data Loader, REST API
+Backend: Python (FastAPI, REST APIs), SQL, Postman, Docker
+Cloud/Data: Google Cloud (Functions, BigQuery), Looker, SPSS
+Frontend: React, HTML/CSS, JavaScript
+Tools: Git (Bitbucket/GitHub), Google Workspace, Excel (Advanced)
+Languages: Spanish (Native), English (C1)
 
+Salesforce Mentor
+Guayerd (Remote) | Dec 2024 – Present
 
- 🔭 I’m currently freelancing Salesforce and backend Python Solutions!
+Coach aspiring Salesforce Administrators on certification prep, Sales Cloud best practices, and process automation.
 
-<h2  align="left">💻 My working experience 💻</h2>
-<div>
-<p><img src="src/imagen0.png" height="300" alt="Ignacio Navas - Software Engineer" align="right"><p>
-<p class="puesto">Desarrollador BackEnd</p>
-<p class="lugar">Adsmovil</p><p>Enero 2023 - Septiembre 2024</p>
-<h3>Salesforce Developer</h3>
-<p>Desarrollé aplicaciones lightning principales desde la reunión inicial con el cliente hasta su implementación, incluyendo Lightning Pages de bienvenida y creando permisos personalizados para su acceso.</p>
-<p> Documenté procesos de Salesforce de la logica del negocio para mejorar la claridad y los errores disminuyeron en un 50%.</p>
-<p>Implementé automatizaciones para tareas repetitivas, como la copia de datos de agencias, creación de órdenes y envío de alertas por correo para distintos eventos.</p>
-<p>Automatize las validaciones de errores con herramientas como reglas de validacion, campos de control verificados por process builders / flows.</p>
-<p>Creacion y mantenimientos de objetos de sistema como personalizados.</p>
-<p>Migracion de forms a Lighning Web Components.</p>
-<h3>Python Developer</h3>
-<p>Genere ETL's para transferir datos a BigQuery desde Salesforce.</p>
-<p>Cree automaitzaciones serverless para creacion y actualizacion de tablas en BQ</p>
-</div>
+Professional Experience
+Salesforce Developer
+Adsmovil (Remote) | Aug 2022 – Oct 2024
 
+Developed end-to-end Salesforce solutions for clients like Rappi, Glovo, and Farmatodo, leading projects from requirements gathering to production deployment.
 
+Automated 15+ business processes:
 
+Migrated critical automations from Process Builder to Flows, improving efficiency by 30%.
 
-💬 Ask me about **Python or Salesforce**
+Implemented data validation rules and email alerts, reducing manual errors by 40%.
 
-📫 How to reach me **ignaciovallejosnavas@gmail.com**
+Built ETL pipelines using Python + Google Cloud Functions to sync Salesforce data with BigQuery, enabling real-time analytics for sales teams.
 
-📄 Know about my experiences [https://www.linkedin.com/in/ignaciovallejosnavas/](https://www.linkedin.com/in/ignaciovallejosnavas/)
+Created dashboards to track sales performance, quotas, and product trends, adopted by 50+ users.
 
-⚡ Fun fact **Snakes can predict Earthquakes**
+Operations Manager
+MODOC S.A (Posadas) | Jan 2021 – Aug 2022
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ignaciovallejosnavas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ignaciovallejosnavas" height="30" width="40" /></a>
-</p>
+Digitalized operations for 5+ branches using Google Sheets, reducing reporting errors by 80% and speeding up controls by 50%.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+Developed Excel-based tracking systems to automate document status updates, cutting processing time by 95%.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ignanavas&label=Profile%20views&color=0e75b6&style=flat" alt="ignanavas" /> </p>
+Education
+Software Engineer
+Universidad Gaston Dachary | Jan 2015 – Jul 2023
 
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 20px;
-    }
+Key Achievements
+Salesforce Automation: Reduced manual data entry by 70% through Flows and Python scripts.
 
-    .experiencia {
-        display: grid;
-        grid-template-columns: 300px 600px 300px; /* Dos columnas: imagen y mini grid */
-        grid-template-rows: 150px 150px 150px
-        gap: 10px; 
-        border-radius: 5px;
-        padding: 20px;
-        border: 1px solid #000;
+Data Integration: Architected a serverless pipeline (Salesforce → BigQuery) using GCP Functions.
 
-    }
-
-    .imagen img {
-        width: 100%; /* Asegúrate de que la imagen se ajuste al contenedor */
-        border-radius: 5px;
-        border: 1px solid #000;
-
-    }
-    .puesto {
-        color: #007BFF; 
-        font-weight: bold; 
-    }
-
-    .lugar {
-        padding: 5px; 
-        border-radius: 3px;
-        color: red;
-    }
-
-    .descripcion {
-        padding: 5px; 
-    }
-</style>
+Leadership: Trained 10+ team members across branches on security protocols and tooling.
