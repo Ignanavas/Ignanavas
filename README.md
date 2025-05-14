@@ -13,7 +13,7 @@ Tools: Git (Bitbucket/GitHub), Google Workspace, Excel (Advanced)
 Languages: Spanish (Native), English (C1)
 
 Salesforce Mentor
-Guayerd (Remote) | Dec 2024 – Present
+Guayerd (Remote) | Dec 2024 – May 2025
 
 Coach aspiring Salesforce Administrators on certification prep, Sales Cloud best practices, and process automation.
 
