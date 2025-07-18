@@ -1,7 +1,6 @@
 JOSE IGNACIO VALLEJOS NAVAS
 📍 Remote | 📧 ignaciovalejosnavas@gmail.com | 🔗 LinkedIn
 
-Professional Summary
 Salesforce Developer & Python Backend Engineer with 3+ years of experience building scalable applications in Salesforce Sales Cloud and FastAPI. Proven track record in process automation, data integration (BigQuery, REST APIs), and leading cross-functional teams. Certified in Salesforce Administrator with strong expertise in Apex, Flows, and Lightning Components.
 
 Technical Skills
