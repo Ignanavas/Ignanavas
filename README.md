@@ -11,12 +11,29 @@ Frontend: React, HTML/CSS, JavaScript
 Tools: Git (Bitbucket/GitHub), Google Workspace, Excel (Advanced)
 Languages: Spanish (Native), English (C1)
 
+## Job history
+Mid Tech Content Manager | OLIVER Marketing | Starting May 2025 - Present
+Remote Position
+
+Developed and executed CRM-focused content strategies to improve customer engagement and support business objectives. Managed the end-to-end content lifecycle within a centralized digital library.
+Strategy & Analysis: Optimized content performance through continuous A/B testing and analysis of CRM metrics and customer feedback.
+Team Leadership & Collaboration: Supported the oversight of a content team and collaborated closely with Marketing, Sales, and Data Analytics departments to ensure strategic alignment.
+Content Governance: Implemented a tagging and categorization system within the CRM to enable hyper-personalized campaigns. Conducted regular audits for compliance, accuracy, and brand relevance.
+Stakeholder Management: Translated complex data insights from analysts into actionable content strategies to improve the customer journey.
+
+Tech Lead Backend
+Lader ( Remote ) | February 2025 - July 2025
+Lead the development of Tierra de Oportunidades Web app , I was in charge of implementing
+github, created runners on github for maintain issues organized , made a Docker repository for
+the organization, configure workers on digital ocean, link worker with docker repository, code
+best practices with Python (Fast Api) on server with multiple endpoints, document the system
+and made UX / IX with the front end team
+
 Salesforce Mentor
 Guayerd (Remote) | Dec 2024 – May 2025
-
 Coach aspiring Salesforce Administrators on certification prep, Sales Cloud best practices, and process automation.
 
-Professional Experience
+
 Salesforce Developer
 Adsmovil (Remote) | Aug 2022 – Oct 2024
 
