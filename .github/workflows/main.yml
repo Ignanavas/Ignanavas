@@ -1,0 +1,35 @@
+name: Generate PDF from README
+
+on:
+  push:
+    branches: [ "main" ] # Se ejecuta cada vez que haces push a la rama main
+  workflow_dispatch: # Permite ejecutar el workflow manualmente desde la pestaña "Actions"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate PDF
+        uses: betaoverflow/github-readme-to-pdf@v1.2.1 # Un action popular para esto
+        with:
+          # Usa el token de GitHub para autenticarse
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # La ruta de tu README (generalmente en la raíz)
+          README_PATH: './README.md'
+          # El nombre del PDF de salida
+          OUTPUT_NAME: 'Mi_CV_Jose_Vallejos'
+
+      - name: Upload PDF as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: cv-pdf
+          path: ./*.pdf
