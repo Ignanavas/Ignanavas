@@ -1,35 +1,28 @@
-name: Generate PDF from README
+name: Generate PDF with Pandoc
 
 on:
   push:
-    branches: [ "main" ] # Se ejecuta cada vez que haces push a la rama main
-  workflow_dispatch: # Permite ejecutar el workflow manualmente desde la pestaña "Actions"
+    branches: [ "main" ]
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    container:
+      image: pandoc/latex:latest # Imagen oficial con todo lo necesario
+      options: --user root
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
+      - name: Convert README to PDF
+        run: |
+          # Convierte el Markdown a PDF usando un engine de LaTeX
+          pandoc README.md -o CV_Jose_Vallejos.pdf --pdf-engine=xelatex -V geometry:margin=1in
 
-      - name: Generate PDF
-        uses: betaoverflow/github-readme-to-pdf@v1.2.1 # Un action popular para esto
-        with:
-          # Usa el token de GitHub para autenticarse
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # La ruta de tu README (generalmente en la raíz)
-          README_PATH: './README.md'
-          # El nombre del PDF de salida
-          OUTPUT_NAME: 'Mi_CV_Jose_Vallejos'
-
-      - name: Upload PDF as artifact
+      - name: Upload PDF artifact
         uses: actions/upload-artifact@v4
         with:
-          name: cv-pdf
-          path: ./*.pdf
+          name: curriculum-vitae-pandoc
+          path: CV_Jose_Vallejos.pdf
