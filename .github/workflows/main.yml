@@ -26,7 +26,10 @@ jobs:
         with:
           name: curriculum-vitae-pandoc
           path: CV_Jose_Vallejos.pdf
-          
+
+      - name: Install git
+        run: apk add --no-cache git
+
       - name: Commit and Push PDF
         run: |
           git config --global user.name "github-actions[bot]"
