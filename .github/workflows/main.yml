@@ -2,14 +2,20 @@ name: Generate PDF with Pandoc
 
 on:
   push:
-    branches: [ "main" ]
+    branches: ["main"]
+    paths:
+      - "README.md"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     container:
-      image: pandoc/latex:latest # Imagen oficial con todo lo necesario
+      image: pandoc/latex:latest
       options: --user root
 
     steps:
@@ -18,8 +24,10 @@ jobs:
 
       - name: Convert README to PDF
         run: |
-          # Convierte el Markdown a PDF usando un engine de LaTeX
-          pandoc README.md -o CV_Jose_Vallejos.pdf --pdf-engine=xelatex -V geometry:margin=1in
+          pandoc README.md \
+            -o CV_Jose_Vallejos.pdf \
+            --pdf-engine=xelatex \
+            -V geometry:margin=1in
 
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v4
@@ -30,10 +38,13 @@ jobs:
       - name: Install git
         run: apk add --no-cache git
 
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
       - name: Commit and Push PDF
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add CV_Jose_Vallejos.pdf
           git commit -m "Update CV PDF" || echo "No changes to commit"
           git push
