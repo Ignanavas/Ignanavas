@@ -13,7 +13,7 @@ Languages: Spanish (Native), English (C1)
 
 ## Job history
 
-### Mid Tech Content Manager |
+###  <center> Mid Tech Content Manager | <center/>
 ### OLIVER Marketing         | Starting May 2025 - Present
 
 Developed and executed CRM-focused content strategies to improve customer engagement and support business objectives. Managed the end-to-end content lifecycle within a centralized digital library.
@@ -50,8 +50,8 @@ Built ETL pipelines using Python + Google Cloud Functions to sync Salesforce dat
 
 Created dashboards to track sales performance, quotas, and product trends, adopted by 50+ users.
 
-Operations Manager
-MODOC S.A (Posadas) | Jan 2021 – Aug 2022
+## Operations Manager
+### MODOC S.A (Posadas) | Jan 2021 – Aug 2022
 
 Digitalized operations for 5+ branches using Google Sheets, reducing reporting errors by 80% and speeding up controls by 50%.
 
@@ -59,7 +59,7 @@ Developed Excel-based tracking systems to automate document status updates, cutt
 
 Education
 Software Engineer
-Universidad Gaston Dachary | Jan 2015 – Jul 2023
+Universidad Cuenca del Plata | Jan 2025 – Dec 2030
 
 Key Achievements
 Salesforce Automation: Reduced manual data entry by 70% through Flows and Python scripts.
