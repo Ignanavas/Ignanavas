@@ -1,7 +1,7 @@
 # JOSE IGNACIO VALLEJOS NAVAS
 **Salesforce Developer & Python Backend Engineer**
 
-📍 Remote | 📧 [ignaciovalejosnavas@gmail.com](mailto:ignaciovalejosnavas@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/tu-perfil) | 🐙 [GitHub](https://github.com/tu-usuario)
+📍 Remote | 📧 [ignaciovalejosnavas@gmail.com](mailto:ignaciovalejosnavas@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/ignaciovallejosnavas) | 🐙 [GitHub](https://github.com/Ignanavas)
 
 ---
 
