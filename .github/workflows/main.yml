@@ -1,24 +1,22 @@
 name: Generate PDF with Pandoc
-
 on:
   push:
     branches: ["main"]
     paths:
       - "README.md"
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
-
     container:
       image: pandoc/latex:latest
       options: --user root
-
     steps:
+      - name: Install git
+        run: apk add --no-cache git
+
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -35,11 +33,9 @@ jobs:
           name: curriculum-vitae-pandoc
           path: CV_Jose_Vallejos.pdf
 
-      - name: Install git
-        run: apk add --no-cache git
-
       - name: Configure Git
         run: |
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
