@@ -1,16 +1,14 @@
 # JOSE IGNACIO VALLEJOS NAVAS
 **Salesforce Developer & Python Backend Engineer**
 
-📍 Remote | 📧 [ignaciovalejosnavas@gmail.com](mailto:ignaciovalejosnavas@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/ignaciovallejosnavas) | 🐙 [GitHub](https://github.com/Ignanavas)
+📍 Posadas, Misiones, Argentina (Remote) | 📧 [ignaciovallejosnavas@gmail.com](mailto:ignaciovallejosnavas@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/ignaciovallejosnavas) | 🐙 [GitHub](https://github.com/Ignanavas)
 
 ## 🎯 Executive Summary
-Salesforce Developer & Python Backend Engineer with 3+ years of experience building scalable applications in **Salesforce Sales Cloud** and **FastAPI**. Proven track record in process automation, data integration (BigQuery, REST APIs), and leading cross-functional teams. Strong expertise in Salesforce Administration, Apex, Flows, and Lightning Web Components (LWC).
-
-
+Salesforce Developer & Python Backend Engineer with 4+ years of experience in Python and 2.5+ years in Salesforce, delivering end-to-end solutions in Sales Cloud automation, FastAPI backends, and Google Cloud Platform data pipelines. Proven track record in process automation, data integration (BigQuery, REST APIs), and leading cross-functional teams. Available for remote roles in Salesforce development, Python backend, or data analysis.
 
 ## 🛠️ Technical Skills
 
-- **Salesforce Ecosystem:** Apex, SOQL, Lightning Web Components (LWC), Flows, Process Builder, Data Loader, Sales Cloud, REST APIs Integration.
+- **Salesforce Ecosystem:** Apex, SOQL, Lightning Web Components (LWC), Flows, Process Builder, Data Loader, Sales Cloud, REST API Integration.
 - **Backend & APIs:** Python (FastAPI, REST APIs), SQL, Postman, Docker.
 - **Cloud & Data Analytics:** Google Cloud Platform (Cloud Functions, BigQuery), Looker, SPSS.
 - **Frontend Development:** React, HTML5 / CSS3, JavaScript (ES6+).
@@ -19,50 +17,48 @@ Salesforce Developer & Python Backend Engineer with 3+ years of experience build
 
 ## 💼 Professional Experience
 
-### **Mid Tech Content Manager** | *OLIVER Marketing*
-📅 *May 2025 – July 2026*  
-- Developed and executed CRM-focused content strategies to improve customer engagement and support core business objectives.
-- Managed the end-to-end content lifecycle within a centralized digital library.
-- Supported oversight of a content team and collaborated closely with Marketing, Sales, and Data Analytics departments to ensure strategic alignment.
-- Implemented a tagging and categorization system within the CRM to enable hyper-personalized campaigns. Conducted regular audits for compliance, accuracy, and brand relevance.
+### **CEO** | *Consultora Navas*
+📅 *March 2025 – Present*
+- Founded and run an independent consultancy delivering Salesforce and Python backend solutions for clients.
 
-### **Tech Lead Backend** | *Lader* (Remote)
-📅 *February 2025 – July 2025*  
-- Led the backend development of the **Tierra de Oportunidades** web application.
-- Structured GitHub organization workflows and configured self-hosted GitHub Runners to maintain issue tracking and CI/CD execution.
-- Created and managed a Docker repository for containerized organization microservices.
-- Configured and deployed background workers on DigitalOcean integrated with the Docker repository.
-- Enforced Python (FastAPI) clean code best practices on production servers servicing multiple endpoints.
-- Documented system architecture and collaborated closely on UX/UI alignment with the frontend engineering team.
+### **Mid Tech Content Manager** | *OLIVER Agency*
+📅 *May 2025 – May 2026*
+- Part of the data and campaign operations team for Apple, Samsung, and Motorola accounts.
+- QA of campaign links and DCM tag validation (Campaign Manager 360) prior to launch.
+- Manual QA of email proofs in Knak: layout, tracking links, and personalization tokens.
+- Loaded and managed campaign links in Knak; maintained the asset library.
+- Cross-validated campaign data, flagged discrepancies, and escalated to stakeholders.
+- Knak Certified Administrator.
 
 ### **Salesforce Mentor** | *Guayerd* (Remote)
-📅 *December 2023 – May 2024*  
-- Coached aspiring Salesforce Administrators on certification preparation, Sales Cloud best practices, and declarative process automation.
+📅 *December 2024 – May 2025*
+- Served as technical reference for course content and projects, guiding a cohort of 40 students through their learning process and employability preparation.
 
-### **Salesforce Developer** | *Adsmovil* (Remote)
-📅 *August 2022 – October 2023*  
+### **Medical Interpreter L3** | *Interpretia*
+📅 *October 2024 – November 2024*
+- Provided accurate English–Spanish interpretation in high-stakes contexts, including financial, insurance, and 911 emergency calls.
+
+### **Software Engineer** | *Adsmovil* (Remote)
+📅 *January 2023 – October 2024*
 - Developed end-to-end Salesforce solutions for major enterprise clients including **Rappi**, **Glovo**, and **Farmatodo**, leading projects from requirements gathering to production deployment.
-- **Process Automation (15+ Business Processes):**
-  - Migrated critical automations from Process Builder to Salesforce Flows, improving execution efficiency by 30%.
-  - Implemented data validation rules and automated email alerts, reducing manual data entry errors by 40%.
-- **Data Integration & ETL:**
-  - Architected serverless ETL pipelines using Python and Google Cloud Functions to sync Salesforce data with Google BigQuery, enabling real-time analytics.
-- **Analytics & Reporting:**
-  - Built executive dashboards to track sales performance, quotas, and product trends, actively adopted by 50+ business users.
+- **Process Automation (15+ Business Processes):** Migrated critical automations from Process Builder to Salesforce Flows, improving execution efficiency by 30%. Implemented data validation rules and automated email alerts, reducing manual data entry errors by 40%.
+- **Data Integration & ETL:** Architected serverless ETL pipelines using Python and Google Cloud Functions to sync Salesforce data with Google BigQuery, enabling real-time analytics.
+- **Analytics & Reporting:** Built executive dashboards (Looker) to track sales performance, quotas, and product trends, adopted by 50+ business users.
+- Conducted code reviews to enforce Python best practices.
 
-### **Operations Manager** | *MODOC S.A* (Posadas)
-📅 *January 2021 – August 2022*  
+### **Gerente General** | *MODOC S.A.* (Posadas)
+📅 *February 2021 – January 2023*
 - Digitalized operations across 5+ branches using Google Sheets, reducing reporting errors by 80% and speeding up operational controls by 50%.
 - Developed Excel-based tracking systems to automate document status updates, cutting processing time by 95%.
 - Trained 10+ team members across branches on security protocols, digital tools, and operational workflows.
 
-## 🏆 Key Achievements
-
-- 🚀 **Salesforce Automation:** Reduced manual data entry by 70% across business workflows through Salesforce Flows and Python automation scripts.
-- 🔄 **Data Pipelines:** Architected a serverless data pipeline (Salesforce → BigQuery) leveraging GCP Cloud Functions for scalable real-time analytics.
-- 👥 **Leadership & Enablement:** Trained and mentored 10+ cross-branch team members on security protocols, CRM best practices, and development tools.
+### **Ayudante de Producción** | *MODOC*
+📅 *August 2020 – February 2021*
 
 ## 🎓 Education
 
-### **Software Engineering**
-**Universidad Cuenca del Plata** | 📅 *Jan 2025 – Dec 2030 (Expected)*
+### **Ingeniería en Sistemas de Información de Gestión**
+**Universidad de la Cuenca del Plata** | 📅 *Jan 2025 – Dec 2029 (Expected)*
+
+### **Ingeniería Informática**
+**Universidad Gastón Dachary** | 📅 *2015 – 2022*
